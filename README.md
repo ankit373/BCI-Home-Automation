@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+# BCI Automation
 
 You can use the [editor on GitHub](https://github.com/ankit373/BCI-Home-Automation/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
